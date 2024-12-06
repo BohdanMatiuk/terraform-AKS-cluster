@@ -1,2 +1,0 @@
-# terraform-AKS-cluster
--project
